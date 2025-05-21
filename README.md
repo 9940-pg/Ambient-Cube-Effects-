@@ -3,8 +3,8 @@
 This project showcases a glowing 3D ambient cube using HTML, CSS, and JavaScript. The cube rotates with an ambient green glow for a visually immersive experience.
 
 ## 🔗 Live Site  
-[Click here to view the live demo](https://9940-pg.github.io/Ambient-Cube-Effects/)  
-(Replace with your actual deployed URL if different)
+[Click here to view the live demo](https://9940-pg.github.io/Ambient-Cube-Effects-/)  
+
 
 ## Features
 - 3D cube with green ambient light
